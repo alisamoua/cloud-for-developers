@@ -15,4 +15,4 @@ artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: bd
+  base-directory: build
